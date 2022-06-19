@@ -17,7 +17,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: '_Data In Process, Please Wait A Minute.._ , kalo Eror Jangan Di spam ngentot',
+    wait: 'Sabar kalo Eror Jangan Di spam ngentot',
 }
 global.thumb = fs.readFileSync('./lib/assets/logo.jpg')
 
